@@ -1,8 +1,10 @@
-# playing.starcraft2
+# playing-games
 
 ## install wine on ubuntu
 
 - https://wiki.winehq.org/Ubuntu
 
-## hotkeys
+## starcraft 2 hotkeys
 
+- 
+-

@@ -9,8 +9,12 @@ list86(){
     ls ~/.wine/drive_c/'Program Files (x86)'
 }
 
-install(){
+battlenet_install(){
     wine ~/Downloads/Battle.net-Setup.exe
+}
+
+battlenet(){
+    wine ~/.wine/drive_c/'Program Files (x86)'/Battle.net/Battle.net.exe
 }
 
 "$@"
