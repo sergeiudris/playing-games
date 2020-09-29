@@ -17,4 +17,8 @@ battlenet(){
     wine ~/.wine/drive_c/'Program Files (x86)'/Battle.net/Battle.net.exe
 }
 
+sc2(){
+    wine ~/.wine/drive_c/'Program Files (x86)'/'StarCraft II'/'StarCraft II.exe'
+}
+
 "$@"

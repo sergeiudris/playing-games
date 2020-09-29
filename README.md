@@ -4,7 +4,11 @@
 
 - https://wiki.winehq.org/Ubuntu
 
-## starcraft 2 hotkeys
+## seeking games/scenes to play with friends/family competetively online
 
-- 
--
+#### TripleA
+
+- https://triplea-game.org/
+- https://github.com/triplea-game
+- intro
+    - https://www.youtube.com/watch?v=MX9ehmKFdmI
