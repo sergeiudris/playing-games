@@ -4,9 +4,11 @@
 
 - https://wiki.winehq.org/Ubuntu
 
-## seeking games/scenes to play with friends/family competetively online
+## looking for games/scenes to play with friends/family competetively online
 
-#### TripleA
+- https://www.reddit.com/r/canada/comments/foilyh/sharing_my_list_of_gamesactivities_you_can_do/
+
+## TripleA
 
 - https://triplea-game.org/
 - https://github.com/triplea-game
