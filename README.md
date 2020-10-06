@@ -38,3 +38,16 @@
 #### chess.com
 
 - https://www.chess.com/ 
+
+
+## texting games
+
+- 20 questions
+    - pick something/someone, your opponent should guess in less that 20 questions
+- riddles
+    - like in Hobbit, make up a riddle and your opponent has to guess in three attempts
+- last letter game
+    - pick a topic
+    - saya word, opponent has to say a word starting with the last letter
+- trivia game
+    - trivia
