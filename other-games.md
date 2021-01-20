@@ -46,3 +46,7 @@
     - saya word, opponent has to say a word starting with the last letter
 - trivia game
     - trivia
+
+## learned league
+
+- https://learnedleague.com/
