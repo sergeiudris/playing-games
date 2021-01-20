@@ -47,6 +47,6 @@
 - trivia game
     - trivia
 
-## learned league
+## learned league - invite only crap
 
 - https://learnedleague.com/
