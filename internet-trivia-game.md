@@ -6,3 +6,4 @@
 - the team with most points wins
 - this is even better than generated questions, because each fact is known/understood by at least the person who found it, so players themselves form the scope, topics and difficulty of questions
 - (optional)additionally a google spread sheet can be used for some improvised map of topics where a team is represented by colored borderes of the box and move on the map
+- questions can be anything, including with choice or closest-number-wins (like in conquiztador)
