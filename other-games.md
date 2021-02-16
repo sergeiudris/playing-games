@@ -50,3 +50,8 @@
 ## learned league - invite only crap
 
 - https://learnedleague.com/
+
+## trivia games
+
+- https://www.randomtriviagenerator.com/
+- DIY trivia [./internet-trivia-game.md](./internet-trivia-game.md)
